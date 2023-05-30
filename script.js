@@ -7,8 +7,7 @@ $(function() {
       autoCenter: true, 
       closed: true,
       pageBorder: -9,
-      startingPage: 2,
-      manual: true
+      arrows: true
     });
 
 });
